@@ -18,16 +18,15 @@
 
 ### Skills 
 ![langs](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
-![langs](https://img.shields.io/badge/C++-1572B6?style=for-the-badge&logo=C++&logoColor=white)
-![lamgs](https://img.shields.io/badge/MatLab-F7DF1E?style=for-the-badge&logo=MatLab&logoColor=black)
+![langs](https://img.shields.io/badge/C++-1572B6?style=for-the-badge&logo=c&logoColor=white)
+![lamgs](https://img.shields.io/badge/MatLab-F7DF1E?style=for-the-badge&logo=matlab&logoColor=black)
 ![l](https://img.shields.io/badge/VBA-E34F26?style=for-the-badge&logo=VBA&logoColor=white) 
 ![L](https://img.shields.io/badge/MS.OFFICE-43853D?style=for-the-badge&logo=OFFICE&logoColor=white)
-![l](https://img.shields.io/badge/Pytorch-ED8B00?style=for-the-badge&logo=Pytorch&logoColor=white)
 ![l](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![l](https://img.shields.io/badge/Keras-00000F?style=for-the-badge&logo=keras&logoColor=white)
-![l](https://img.shields.io/badge/mmdetection-DD0031?style=for-the-badge&logo=mmdetection&logoColor=white)
+![l](https://img.shields.io/badge/Pytorch-ED8B00?style=for-the-badge&logo=Pytorch&logoColor=white)
+![l](https://img.shields.io/badge/mmdetection-DD0031?style=for-the-badge&logo=MMdetection&logoColor=white)
 ![l](https://img.shields.io/badge/OpenCV-20232A?style=for-the-badge&logo=opencv&logoColor=61DAFB)
-![l](https://img.shields.io/badge/ScikitImage-092E20?style=for-the-badge&logo=ScikitImage&logoColor=green)
 
 
 </div>
