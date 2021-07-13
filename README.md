@@ -2,7 +2,7 @@
 <img align="center" height="350cm" src="https://thumbs.gfycat.com/DecisiveYellowHydra-size_restricted.gif" >
 
 <h1 align="center">times is now</h1>
-<h3 align="center">Deep Learning| Artificial Neural Network| Computer Vision| Computer Vision  </h3>
+<h3 align="center">Deep Learning | Artificial Neural Network | Computer Vision </h3>
  
 ![](https://komarev.com/ghpvc/?username=your-github-ozanpkr&color=brightgreen)
 [![GitHub followers](https://img.shields.io/github/followers/ozanpkr.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/ozanpkr?tab=followers)
