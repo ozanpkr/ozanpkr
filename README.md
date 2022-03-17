@@ -2,6 +2,9 @@
 <img align="center" height="350cm" src="https://thumbs.gfycat.com/DecisiveYellowHydra-size_restricted.gif" >
 
 <h1 align="center">times is now</h1>
+
+![](gitartwork.svg)
+
 <h3 align="center">Deep Learning | Artificial Neural Network | Computer Vision </h3>
  
 ![](https://komarev.com/ghpvc/?username=your-github-ozanpkr&color=brightgreen)
