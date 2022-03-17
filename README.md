@@ -3,7 +3,7 @@
 
 <h1 align="center">times is now</h1>
 
-![](gitartwork.svg)
+
 
 <h3 align="center">Deep Learning | Artificial Neural Network | Computer Vision </h3>
  
